@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -48,7 +48,7 @@
 "^ot:otusElementOrder": [
 "otus2904"
 ], 
-"^ot:studyId": "pg_2904", 
+"^ot:studyId": "2904", 
 "^ot:studyPublicationReference": "Lo E., Duke N.C., & Sun M. 2014. Phylogeographic pattern of Rhizophora (Rhizophoraceae) reveals the importance of both vicariance and long-distance oceanic dispersal to modern mangrove distribution. BMC Evolutionary Biology, .", 
 "^ot:studyYear": 2014, 
 "^ot:treesElementOrder": [
