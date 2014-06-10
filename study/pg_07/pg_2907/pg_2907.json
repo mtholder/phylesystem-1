@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -48,7 +48,7 @@
 "^ot:otusElementOrder": [
 "otus2907"
 ], 
-"^ot:studyId": "pg_2907", 
+"^ot:studyId": "2907", 
 "^ot:studyPublicationReference": "Alvarez-fuentes O., & Prather A. 2013. On the Classification of Thelypteridaceae: A Preliminary Phylogenetic Analysis of Thelypteris Subgenus Amauropelta Based on Plastid DNA Sequences. Systematic Botany, .", 
 "^ot:studyYear": 2013, 
 "^ot:treesElementOrder": [
