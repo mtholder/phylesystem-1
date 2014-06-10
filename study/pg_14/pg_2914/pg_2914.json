@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -45,7 +45,7 @@
 "^ot:otusElementOrder": [
 "otus2914"
 ], 
-"^ot:studyId": "pg_2914", 
+"^ot:studyId": "2914", 
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1111/1462-2920.12380"
 }, 
@@ -720,8 +720,8 @@
 }, 
 "otu431630": {
 "^ot:originalLabel": "I al clo AY180033.1 Cil Strombidium 99.9 Ridded 2 ", 
-"^ot:ottId": 560705, 
-"^ot:ottTaxonName": "Strombidium apolatum"
+"^ot:ottId": 1045238, 
+"^ot:ottTaxonName": "Strombidium"
 }, 
 "otu431631": {
 "^ot:originalLabel": "I eu clo EU087188.1 Cil Lynnella 98.8 Ridded 1 "
