@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -52,7 +52,7 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1093/sysbio/syp073"
 }, 
-"^ot:studyPublicationReference": "Townsend T., Vieites D., Glaw F., & Vences M. 2009. Testing Species-Level Diversification Hypotheses in Madagascar: The Case of Microendemic Brookesia Leaf Chameleons. Systematic Biology 58 (6): 641-656.", 
+"^ot:studyPublicationReference": "Townsend, T., D. Vieites, F. Glaw, and M. Vences. 2009. Testing species-level diversification hypotheses in Madagascar: the case of microendemic Brookesia leaf chameleons. Systematic Biology 58 (6): 641-656.", 
 "^ot:studyYear": 2009, 
 "^ot:treesElementOrder": [
 "trees2453"
