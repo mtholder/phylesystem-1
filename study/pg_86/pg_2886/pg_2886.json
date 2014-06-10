@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,16 +39,12 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S14909"
 }, 
 "^ot:focalClade": 5246131, 
 "^ot:focalCladeOTTTaxonName": "Holozoa", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2886"
 ], 
@@ -59,9 +52,8 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1016/j.ympev.2014.03.005"
 }, 
-"^ot:studyPublicationReference": "Scheel B.M., & Hausdorf B. 2014. Dynamic evolution of mitochondrial ribosomal proteins in Holozoa. Molecular Phylogenetics and Evolution, 76: 67-74.", 
+"^ot:studyPublicationReference": "Scheel, B.M., and B. Hausdorf. 2014. Dynamic evolution of mitochondrial ribosomal proteins in Holozoa. Molecular Phylogenetics and Evolution 76: 67-74.", 
 "^ot:studyYear": 2014, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2886"
 ], 
@@ -136,6 +128,8 @@
 }, 
 "otu428409": {
 "^ot:originalLabel": "Acropora digitifera", 
+"^ot:ottId": 366634, 
+"^ot:ottTaxonName": "Acropora digitifera", 
 "^ot:treebaseOTUId": "Tl1274089"
 }, 
 "otu428410": {
@@ -225,14 +219,9 @@
 "treeById": {
 "tree6693": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
-"^ot:curatedType": "PHYLIP 1+", 
-"^ot:outGroupEdge": "", 
+"^ot:curatedType": "Fig. 2B Bayesian topology", 
 "^ot:rootNodeId": "node1165511", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
+"^ot:tag": "Choose me", 
 "edgeBySourceId": {
 "node1165511": {
 "edge1165512": {
@@ -629,14 +618,8 @@
 }, 
 "tree6694": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
-"^ot:curatedType": "PHYLIP 1+", 
-"^ot:outGroupEdge": "", 
+"^ot:curatedType": "Fig. 2A ML topology", 
 "^ot:rootNodeId": "node1165560", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165560": {
 "edge1165561": {
