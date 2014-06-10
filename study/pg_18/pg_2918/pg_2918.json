@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -45,11 +45,11 @@
 "^ot:otusElementOrder": [
 "otus2918"
 ], 
-"^ot:studyId": "pg_2918", 
+"^ot:studyId": "2918", 
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1098/rspb.2011.1554"
 }, 
-"^ot:studyPublicationReference": "Y. Yusa, M. Yoshikawa, J. Kitaura, M. Kawane, Y. Ozaki, S. Yamato, J. T. Hoeg. 2012. Adaptive evolution of sexual systems in pedunculate barnacles. Proceedings of the Royal Society B: Biological Sciences 279(1730):959-966.", 
+"^ot:studyPublicationReference": "Y. Yusa, M. Yoshikawa, J. Kitaura, M. Kawane, Y. Ozaki, S. Yamato, J. T. Hoeg. 2012. Adaptive evolution of sexual systems in pedunculate barnacles. Proceedings of the Royal Society B: Biological Sciences 279 (1730): 959-966.", 
 "^ot:studyYear": 2012, 
 "^ot:treesElementOrder": [
 "trees2918"
