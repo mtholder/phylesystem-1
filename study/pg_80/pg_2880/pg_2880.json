@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,13 +39,9 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Joseph Brown", 
 "^ot:focalClade": 266745, 
 "^ot:focalCladeOTTTaxonName": "Stramenopiles", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2880"
 ], 
@@ -58,7 +51,6 @@
 }, 
 "^ot:studyPublicationReference": "Brown, Joseph W., Ulf Sorhannus. 2010. A molecular genetic timescale for the diversification of autotrophic stramenopiles (Ochrophyta): substantive underestimation of putative fossil ages. PLoS ONE 5 (9): e12759.", 
 "^ot:studyYear": 2010, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2880"
 ], 
@@ -746,15 +738,11 @@
 "treeById": {
 "tree6676": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1 Bayesian", 
 "^ot:inGroupClade": "node1164121", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1164069", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
+"^ot:tag": "ingroup added;", 
 "edgeBySourceId": {
 "node1164069": {
 "edge1164070": {
