@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -48,7 +48,7 @@
 "^ot:otusElementOrder": [
 "otus2902"
 ], 
-"^ot:studyId": "pg_2902", 
+"^ot:studyId": "2902", 
 "^ot:studyPublicationReference": "Printzen C. 2014. A molecular phylogeny of the lichen genus Biatora including some morphologically similar species. The Lichenologist, 46.", 
 "^ot:studyYear": 2014, 
 "^ot:treesElementOrder": [
