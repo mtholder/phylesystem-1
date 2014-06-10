@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,23 +39,18 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S14407"
 }, 
 "^ot:focalClade": 844192, 
 "^ot:focalCladeOTTTaxonName": "Bacteria", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2787"
 ], 
 "^ot:studyId": "2787", 
-"^ot:studyPublicationReference": "Fory P., Triplett L.R., Ballen C., Duitama J., Aricapa M., Abello J., Prado G., Correa F., Hamilton J., Leach J., Tohme J., & Mosquera G. 2013. Comparative analysis of two emerging rice seed pathogens. Phytopathology, .", 
+"^ot:studyPublicationReference": "Fory, P., L.R. Triplett, C. Ballen, J. Duitama, M. Aricapa, J. Abello, G. Prado, F. Correa, J. Hamilton, J. Leach, J. Tohme, and G. Mosquera. 2013. Comparative analysis of two emerging rice seed pathogens. Phytopathology, .", 
 "^ot:studyYear": 2013, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2787"
 ], 
@@ -299,15 +291,10 @@
 "treeById": {
 "tree6704": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
+"^ot:branchLengthMode": "ot:substitutionCount", 
 "^ot:curatedType": "rooted BA", 
 "^ot:inGroupClade": "node1167110", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1167108", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node1167108": {
 "edge1167109": {
