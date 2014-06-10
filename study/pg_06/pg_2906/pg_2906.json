@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -48,7 +48,7 @@
 "^ot:otusElementOrder": [
 "otus2906"
 ], 
-"^ot:studyId": "pg_2906", 
+"^ot:studyId": "2906", 
 "^ot:studyPublicationReference": "Fior S., Li M., Oxelman B., Viola R., Hodges S.A., Ometto L., & Varotto C. 2013. Spatiotemporal reconstruction of the Aquilegia rapid radiation through next-generation sequencing of rapidly evolving cpDNA regions. New Phytologist, 198: 579-592.", 
 "^ot:studyYear": 2013, 
 "^ot:treesElementOrder": [
