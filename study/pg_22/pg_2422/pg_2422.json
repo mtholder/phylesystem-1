@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,16 +39,12 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Chris Owen", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S407"
 }, 
 "^ot:focalClade": 210097, 
 "^ot:focalCladeOTTTaxonName": "Ascaridoidea", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2422"
 ], 
@@ -59,9 +52,8 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1006/mpev.1998.0514"
 }, 
-"^ot:studyPublicationReference": "Nadler S., & Hudspeth D. 1998. Ribosomal DNA and phylogeny of the Ascaridoidea (Nemata: Secernentea): implications for morphological evolution and classification. Molecular Phylogenetics and Evolution 10 (2): 221-236.", 
+"^ot:studyPublicationReference": "Nadler, S., and D. Hudspeth. 1998. Ribosomal DNA and phylogeny of the Ascaridoidea (Nemata: Secernentea): implications for morphological evolution and classification. Molecular Phylogenetics and Evolution 10 (2): 221-236.", 
 "^ot:studyYear": 1998, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2422"
 ], 
@@ -76,8 +68,6 @@
 }, 
 "otu345576": {
 "^ot:originalLabel": "Anisakis cl 3", 
-"^ot:ottId": 870365, 
-"^ot:ottTaxonName": "Anisakis", 
 "^ot:treebaseOTUId": "Tl113750"
 }, 
 "otu345577": {
@@ -100,8 +90,6 @@
 }, 
 "otu345580": {
 "^ot:originalLabel": "Anisakis cl 2", 
-"^ot:ottId": 870365, 
-"^ot:ottTaxonName": "Anisakis", 
 "^ot:treebaseOTUId": "Tl113757"
 }, 
 "otu345581": {
@@ -226,15 +214,9 @@
 "treeById": {
 "tree5113": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1-MP", 
 "^ot:inGroupClade": "node887910", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node887906", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node887906": {
 "edge887907": {
@@ -485,15 +467,9 @@
 }, 
 "tree5114": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 2-MP 50% Maj Rule", 
 "^ot:inGroupClade": "node887944", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node887941", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node887941": {
 "edge887942": {
@@ -702,15 +678,9 @@
 }, 
 "tree5115": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 3-ML strict consen", 
 "^ot:inGroupClade": "node887974", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node887970", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node887970": {
 "edge887971": {
@@ -982,15 +952,9 @@
 }, 
 "tree5116": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 4-MP strict consen", 
 "^ot:inGroupClade": "node888010", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node888008", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node888008": {
 "edge888009": {
@@ -1262,15 +1226,9 @@
 }, 
 "tree5117": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 6-ML", 
 "^ot:inGroupClade": "node888048", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node888046", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node888046": {
 "edge888047": {
