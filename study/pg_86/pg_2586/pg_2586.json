@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,16 +39,12 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Chris Owen", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S12669"
 }, 
 "^ot:focalClade": 801601, 
 "^ot:focalCladeOTTTaxonName": "Vertebrata", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2586"
 ], 
@@ -59,9 +52,8 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1093/sysbio/sys049"
 }, 
-"^ot:studyPublicationReference": "Lemmon A.R., Lemmon E., and Emme S. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61 (5): 727-744.", 
+"^ot:studyPublicationReference": "Lemmon, A.R., E. Lemmon, and S. Emme. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61 (5): 727-744.", 
 "^ot:studyYear": 2012, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2586"
 ], 
@@ -126,17 +118,11 @@
 "treeById": {
 "tree5996": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Bucky species tree", 
 "^ot:inGroupClade": "node1018932", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1018930", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [
-"choose me"
-], 
+"^ot:tag": "choose me", 
 "edgeBySourceId": {
 "node1018930": {
 "edge1018931": {
@@ -277,15 +263,10 @@
 }, 
 "tree5997": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Bucky species tree", 
 "^ot:inGroupClade": "node1018949", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1018947", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node1018947": {
 "edge1018948": {
