@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,16 +39,12 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "William Wysocki", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S10629"
 }, 
 "^ot:focalClade": 11197, 
 "^ot:focalCladeOTTTaxonName": "Dendropanax", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus36"
 ], 
@@ -61,7 +54,6 @@
 }, 
 "^ot:studyPublicationReference": "Li, R., & Wen, J. (2013). Phylogeny and Biogeography of Dendropanax (Araliaceae), an Amphi-Pacific Disjunct Genus Between Tropical/Subtropical Asia and the Neotropics. Systematic Botany, 38(2), 536-551.", 
 "^ot:studyYear": 2013, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees36"
 ], 
@@ -650,15 +642,9 @@
 "treeById": {
 "tree36": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Strict", 
-"^ot:inGroupClade": "node8988", 
-"^ot:outGroupEdge": "", 
+"^ot:inGroupClade": "node8984", 
 "^ot:rootNodeId": "node8967", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node8967": {
 "edge8968": {
