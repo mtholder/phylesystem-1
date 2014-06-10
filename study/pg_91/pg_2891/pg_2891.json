@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,13 +39,9 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 225495, 
 "^ot:focalCladeOTTTaxonName": "Cyanobacteria", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2891"
 ], 
@@ -56,9 +49,8 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1111/j.1574-6941.2012.01299.x"
 }, 
-"^ot:studyPublicationReference": "Janaina Rigonato, Danillo Oliveira Alvarenga, Fernando Dini Andreote, Armando Cavalcante Franco Dias, Itamar Soares Melo, Angela Kent, Marli F\u00e1tima Fiore. 2012. Cyanobacterial diversity in the phyllosphere of a mangrove forest. FEMS Microbiol Ecol 80(2):312-322.", 
+"^ot:studyPublicationReference": "Rigonato, Janaina, Danillo Oliveira Alvarenga, Fernando Dini Andreote, Armando Cavalcante Franco Dias, Itamar Soares Melo, Angela Kent, Marli F\u00e1tima Fiore. 2012. Cyanobacterial diversity in the phyllosphere of a mangrove forest. FEMS Microbiol Ecol 80 (2): 312-322.", 
 "^ot:studyYear": 2012, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2891"
 ], 
@@ -430,14 +422,10 @@
 "treeById": {
 "tree6699": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
+"^ot:branchLengthMode": "ot:substitutionCount", 
 "^ot:curatedType": "ML", 
-"^ot:outGroupEdge": "", 
+"^ot:inGroupClade": "node1165979", 
 "^ot:rootNodeId": "node1165885", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165885": {
 "edge1165886": {
