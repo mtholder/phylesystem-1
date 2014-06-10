@@ -25,7 +25,7 @@
 "otherProperty": [
 {
 "name": "pythonVersion", 
-"value": "2.7.3"
+"value": "2.7.5+"
 }, 
 {
 "name": "pythonImplementation", 
@@ -45,7 +45,7 @@
 "^ot:otusElementOrder": [
 "otus2923"
 ], 
-"^ot:studyId": "pg_2923", 
+"^ot:studyId": "2923", 
 "^ot:studyPublicationReference": "Marcos Perez-Losada; Jens T Hoeg; Noa Simon-Blecher; Yair Achituv; Diana Jones; Keith A Crandall 2014. Molecular phylogeny, systematics and morphological evolution of the acorn barnacles (Thoracica: Sessilia: Balanomorpha).", 
 "^ot:studyYear": 2014, 
 "^ot:treesElementOrder": [
