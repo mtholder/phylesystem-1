@@ -15,16 +15,13 @@
 "^ot:agents": {
 "agent": [
 {
-"@description": "validator of NexSON constraints as well as constraints that would allow a study to be imported into the Open Tree of Life's phylogenetic synthesis tools", 
+"@description": "Open Tree NexSON validation", 
 "@id": "peyotl-validator", 
-"@name": "validate_ot_nexson.py", 
+"@name": "api.opentreeoflife.org/validate", 
 "@url": "https://github.com/OpenTreeOfLife/peyotl", 
 "@version": "0.0.4a", 
 "invocation": {
-"commandLine": [
-"--embed", 
-"--agent-only"
-], 
+"commandLine": [], 
 "otherProperty": [
 {
 "name": "pythonVersion", 
@@ -42,16 +39,12 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
-"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S15139"
 }, 
 "^ot:focalClade": 430079, 
 "^ot:focalCladeOTTTaxonName": "Bacteroidetes", 
-"^ot:messages": {
-"message": []
-}, 
 "^ot:otusElementOrder": [
 "otus2846"
 ], 
@@ -59,9 +52,8 @@
 "^ot:studyPublication": {
 "@href": "http://dx.doi.org/10.1186/1471-2180-14-43"
 }, 
-"^ot:studyPublicationReference": "Becker, A.A., Hesta M., Hollants J., Janssens G.P., & Huys G. 2014. Phylogenetic analysis of faecal microbiota from captive cheetahs reveals underrepresentation of Bacteroidetes and Bifidobacteriaceae. BMC Microbiology, 14(43).", 
+"^ot:studyPublicationReference": "Becker, A.A., M. Hesta, J. Hollants, G.P. Janssens, and G. Huys. 2014. Phylogenetic analysis of faecal microbiota from captive cheetahs reveals underrepresentation of Bacteroidetes and Bifidobacteriaceae. BMC Microbiology 14: 43.", 
 "^ot:studyYear": 2014, 
-"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2846"
 ], 
@@ -518,15 +510,10 @@
 "treeById": {
 "tree6608": {
 "@xsi:type": "nex:FloatTree", 
-"^ot:branchLengthDescription": "", 
-"^ot:branchLengthMode": "", 
-"^ot:branchLengthTimeUnit": "", 
+"^ot:branchLengthMode": "ot:substitutionCount", 
 "^ot:curatedType": "Fig. 2", 
 "^ot:inGroupClade": "node1153383", 
-"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1153379", 
-"^ot:specifiedRoot": "", 
-"^ot:tag": [], 
 "edgeBySourceId": {
 "node1153379": {
 "edge1153380": {
