@@ -39,6 +39,9 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [
+"tree6607"
+], 
 "^ot:curatorName": "Angela Oliverio", 
 "^ot:focalClade": 1064655, 
 "^ot:focalCladeOTTTaxonName": "Amoebozoa", 
@@ -2975,6 +2978,8 @@
 "^ot:curatedType": "tree_rooted", 
 "^ot:inGroupClade": "node1153122", 
 "^ot:rootNodeId": "node1153102", 
+"^ot:specifiedRoot": "node1153102", 
+"^ot:unrootedTree": false, 
 "edgeBySourceId": {
 "node1153102": {
 "edge1153103": {

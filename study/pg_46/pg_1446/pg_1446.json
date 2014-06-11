@@ -39,6 +39,9 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [
+"tree2921"
+], 
 "^ot:curatorName": "Jiabin Deng", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S1414"
@@ -1199,6 +1202,8 @@
 "^ot:curatedType": "tb7460", 
 "^ot:inGroupClade": "node618980", 
 "^ot:rootNodeId": "node618979", 
+"^ot:specifiedRoot": "node618979", 
+"^ot:unrootedTree": false, 
 "edgeBySourceId": {
 "node618979": {
 "edge618980": {

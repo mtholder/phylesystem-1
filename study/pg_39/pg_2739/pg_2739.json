@@ -39,6 +39,9 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [
+"tree6601"
+], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 225495, 
 "^ot:focalCladeOTTTaxonName": "Cyanobacteria", 
@@ -25313,6 +25316,8 @@
 "^ot:curatedType": "rooted_tree", 
 "^ot:inGroupClade": "node1150270", 
 "^ot:rootNodeId": "node1150258", 
+"^ot:specifiedRoot": "node1150258", 
+"^ot:unrootedTree": false, 
 "edgeBySourceId": {
 "node1150258": {
 "edge1150259": {
