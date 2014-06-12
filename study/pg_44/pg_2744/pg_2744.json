@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S1086"
 }, 
 "^ot:focalClade": 621380, 
 "^ot:focalCladeOTTTaxonName": "Dinophyceae", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2744"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Haywood, A., K. Steidinger, E. Truby, P. Bergquist, P. Bergquist, J. Adamson, and L. Mackenzie. 2003. Comparative morphology and molecular phylogenetic analyses of three new species of the genus Karenia (Dinophyceae) from New Zealand. Journal of Phycology 40 (1): 165-179.", 
 "^ot:studyYear": 2003, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2744"
 ], 
@@ -170,9 +175,15 @@
 "treeById": {
 "tree6343": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 7", 
 "^ot:inGroupClade": "node1105046", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1105045", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1105045": {
 "edge1105046": {

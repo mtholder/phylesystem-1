@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 302424, 
 "^ot:focalCladeOTTTaxonName": "Ciliophora", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2914"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Luciana F. Santoferrara, Jean-David Grattepanche, Laura A. Katz, George B. McManus. 2014. Pyrosequencing for assessing diversity of eukaryotic microbes: analysis of data on marine planktonic ciliates and comparison with traditional methods. Environmental Microbiology n/a-n/a.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2914"
 ], 
@@ -1710,8 +1715,14 @@
 "treeById": {
 "tree6743": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1172637", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1172637": {
 "edge1172638": {

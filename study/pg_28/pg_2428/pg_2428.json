@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Chris Owen", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S1416"
 }, 
 "^ot:focalClade": 941620, 
 "^ot:focalCladeOTTTaxonName": "Annelida", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2428"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Struck, T., and G. Purschke. 2005. The sister group relationship of Aeolosomatidae and Potamodrilidae (Annelida: \u201cPolychaeta\u201d) \u2014 a molecular phylogenetic approach based on 18S rDNA and cytochrome oxidase I. Zoologischer Anzeiger 243 (4): 281-293.", 
 "^ot:studyYear": 2005, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2428"
 ], 
@@ -881,9 +886,15 @@
 "treeById": {
 "tree5133": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1-MP", 
 "^ot:inGroupClade": "node890333", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890331", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node890331": {
 "edge890332": {
@@ -2667,8 +2678,14 @@
 }, 
 "tree5134": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 2-BI", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890585", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node890585": {
 "edge890586": {
@@ -4333,9 +4350,15 @@
 }, 
 "tree5135": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 3-MP", 
 "^ot:inGroupClade": "node890824", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890822", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node890822": {
 "edge890823": {
@@ -4607,8 +4630,14 @@
 }, 
 "tree5136": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 4-BI", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890860", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node890860": {
 "edge890861": {
@@ -4887,10 +4916,17 @@
 }, 
 "tree5137": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 5-MP", 
 "^ot:inGroupClade": "node890901", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890899", 
-"^ot:tag": "Choose me", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [
+"Choose me"
+], 
 "edgeBySourceId": {
 "node890899": {
 "edge890900": {
@@ -5253,8 +5289,14 @@
 }, 
 "tree5138": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 6-BI", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node890950", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node890950": {
 "edge890951": {

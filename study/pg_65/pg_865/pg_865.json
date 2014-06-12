@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Romina Gazis", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S11370"
 }, 
 "^ot:focalClade": 950082, 
 "^ot:focalCladeOTTTaxonName": "Phyllosticta", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus865"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Glienke C., Cunnington J., Shivas R., Groenewald J.Z., & Crous P. 2011. Endophytic and pathogenic Phyllosticta species, with reference to those associated with Citrus Black Spot. Persoonia, 26: 47-56.", 
 "^ot:studyYear": 2011, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees865"
 ], 
@@ -668,9 +673,15 @@
 "treeById": {
 "tree1661": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "MP, ITS + EF-1 + actin + GPDH", 
 "^ot:inGroupClade": "node474668", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node474664", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node474664": {
 "edge474665": {

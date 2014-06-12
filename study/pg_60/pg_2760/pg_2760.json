@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S13997"
 }, 
 "^ot:focalClade": 621380, 
 "^ot:focalCladeOTTTaxonName": "Dinophyceae", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2760"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Bachvaroff, T.R., S.G. Gornik, G.T. Concepcion, R.F. Waller, G.S. Mendez, J.C. Lippmeier, and C. Delwiche. 2014. Dinoflagellate phylogeny revisited:  using ribosomal proteins to  resolve deep branching dinoflagellate clades. Molecular Phylogentics and Evolution 70: 314-322.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2760"
 ], 
@@ -520,10 +525,15 @@
 "treeById": {
 "tree6375": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "tree 1", 
 "^ot:inGroupClade": "node1109269", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1109192", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1109192": {
 "edge1109193": {

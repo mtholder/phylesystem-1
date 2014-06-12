@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 310012, 
 "^ot:focalCladeOTTTaxonName": "Scuticociliatia", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2862"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Gao, Feng, Shan Gao, Pu Wang, Laura A. Katz, Weibo Song. 2014. Phylogenetic analyses of cyclidiids (Protista, Ciliophora, Scuticociliatia) based on multiple genes suggest their close relationship with thigmotrichids. Molecular Phylogenetics and Evolution 75: 219\u2013226.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2862"
 ], 
@@ -340,10 +345,15 @@
 "treeById": {
 "tree6649": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
 "^ot:inGroupClade": "node1160491", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1160489", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1160489": {
 "edge1160490": {
@@ -1284,9 +1294,15 @@
 }, 
 "tree6766": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "rooted tree", 
 "^ot:inGroupClade": "node1176993", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176951", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176951": {
 "edge1176952": {

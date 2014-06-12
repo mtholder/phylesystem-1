@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 225495, 
 "^ot:focalCladeOTTTaxonName": "Cyanobacteria", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2891"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Rigonato, Janaina, Danillo Oliveira Alvarenga, Fernando Dini Andreote, Armando Cavalcante Franco Dias, Itamar Soares Melo, Angela Kent, Marli F\u00e1tima Fiore. 2012. Cyanobacterial diversity in the phyllosphere of a mangrove forest. FEMS Microbiol Ecol 80 (2): 312-322.", 
 "^ot:studyYear": 2012, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2891"
 ], 
@@ -422,10 +427,15 @@
 "treeById": {
 "tree6699": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
 "^ot:inGroupClade": "node1165979", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165885", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165885": {
 "edge1165886": {

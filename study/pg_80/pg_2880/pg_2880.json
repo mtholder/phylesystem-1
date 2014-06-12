@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Joseph Brown", 
 "^ot:focalClade": 266745, 
 "^ot:focalCladeOTTTaxonName": "Stramenopiles", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2880"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Brown, Joseph W., Ulf Sorhannus. 2010. A molecular genetic timescale for the diversification of autotrophic stramenopiles (Ochrophyta): substantive underestimation of putative fossil ages. PLoS ONE 5 (9): e12759.", 
 "^ot:studyYear": 2010, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2880"
 ], 
@@ -738,11 +743,17 @@
 "treeById": {
 "tree6676": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1 Bayesian", 
 "^ot:inGroupClade": "node1164121", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1164069", 
-"^ot:tag": "ingroup added;", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [
+"ingroup added;"
+], 
 "edgeBySourceId": {
 "node1164069": {
 "edge1164070": {

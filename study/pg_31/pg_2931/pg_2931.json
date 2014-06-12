@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Kayla Foney", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S11769"
+}, 
+"^ot:messages": {
+"message": []
 }, 
 "^ot:otusElementOrder": [
 "otus2931"
@@ -52,6 +56,7 @@
 }, 
 "^ot:studyPublicationReference": "Souffreau C., Verbruggen H., Wolfe A.P., Vanormelingen P., Siver P.A., Cox E.J., Mann D.G., Van de vijver B., Sabbe K., & Vyverman W. 2011. A time-calibrated multi-gene phylogeny of the diatom genus Pinnularia. Molecular phylogenetics and Evolution, 61: 866-879.", 
 "^ot:studyYear": 2011, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2931"
 ], 
@@ -270,9 +275,15 @@
 "treeById": {
 "tree6769": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 4", 
 "^ot:inGroupClade": "node1177532", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1177522", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1177522": {
 "edge1177523": {

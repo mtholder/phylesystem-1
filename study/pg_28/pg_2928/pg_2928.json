@@ -39,18 +39,23 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S15699"
 }, 
 "^ot:focalClade": 748245, 
 "^ot:focalCladeOTTTaxonName": "Bacillariophyceae", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2928"
 ], 
 "^ot:studyId": "pg_2928", 
 "^ot:studyPublicationReference": "Nakov, T., E.C. Ruck, Y. Galachyants, S. Spaulding, and E.C. Theriot. 2014. Molecular phylogeny of the Cymbellales (Heterokontophyta: Bacillariophyceae) with a comparison of models for accommodating rate-variation across sites. Phycologia, .", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2928"
 ], 
@@ -416,10 +421,15 @@
 "treeById": {
 "tree6761": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "con 50 majrule by rate 1", 
 "^ot:inGroupClade": "node1176432", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176426", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176426": {
 "edge1176427": {
@@ -1408,8 +1418,14 @@
 }, 
 "tree6762": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "con 50 majrule by rate 2", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176549", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176549": {
 "edge1176550": {
@@ -2398,8 +2414,14 @@
 }, 
 "tree6763": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "con 50 majrule by gene by codon 1", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176672", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176672": {
 "edge1176673": {
@@ -3396,8 +3418,14 @@
 }, 
 "tree6764": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "con 50 majrule by gene by codon 2", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176796", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176796": {
 "edge1176797": {

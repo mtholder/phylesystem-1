@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Doris Juarez", 
 "^ot:focalClade": 790715, 
 "^ot:focalCladeOTTTaxonName": "Pseudokeronopsidae", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2927"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "da Silva Paiva, Thiago, Amanda Ferreira Cavalcante de Albuquerque, B\u00e1rbara do Nascimento Borges, Maria L\u00facia Harada. 2014. Description and phylogeny of Tetrakeronopsis silvanetoi gen. nov., sp. nov. (Hypotricha, Pseudokeronopsidae), a new benthic marine ciliate from Brazil. PLoS ONE 9 (2): e88954.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2927"
 ], 
@@ -380,9 +385,15 @@
 "treeById": {
 "tree6760": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Bayesian", 
 "^ot:inGroupClade": "node1176370", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176308", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1176308": {
 "edge1176309": {

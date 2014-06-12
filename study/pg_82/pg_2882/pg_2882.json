@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S15537"
 }, 
 "^ot:focalClade": 310506, 
 "^ot:focalCladeOTTTaxonName": "Mycobacterium leprae", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2882"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Mendum, T.A., V.J. Schuenemann, S. Roffey, G.M. Taylor, H. Wu, P. Singh, K. Tucker, J. Hinds, S. Cole, A.M. Kierzek, K. Nieselt, J. Krause, and G.R. Stewart. 2014. Mycobacterium leprae genomes from a British medieval leprosy hospital: towards understanding an ancient epidemic. BMC Genomics 15: 270.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2882"
 ], 
@@ -177,10 +182,16 @@
 "treeById": {
 "tree6682": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165207", 
-"^ot:tag": "Choose me", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [
+"Choose me"
+], 
 "edgeBySourceId": {
 "node1165207": {
 "edge1165208": {
@@ -449,9 +460,14 @@
 }, 
 "tree6683": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "NJ", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165240", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165240": {
 "edge1165241": {
@@ -720,9 +736,14 @@
 }, 
 "tree6684": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ME", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165273", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165273": {
 "edge1165274": {
@@ -991,8 +1012,14 @@
 }, 
 "tree6685": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "MP", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165306", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165306": {
 "edge1165307": {

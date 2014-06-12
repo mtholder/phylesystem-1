@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 844192, 
 "^ot:focalCladeOTTTaxonName": "Bacteria", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2895"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Whiteson, Katrine L., David Hernandez, Vladimir Lazarevic, Nadia Gaia, Laurent Farinelli, Patrice Fran\u00e7ois, Paola Pilo, Joachim Frey, Jacques Schrenzel. 2014. A genomic perspective on a new bacterial genus and species from the Alcaligenaceae family, Basilea psittacipulmonis. BMC Genomics 15 (1): 169.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2895"
 ], 
@@ -210,10 +215,15 @@
 "treeById": {
 "tree6706": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
 "^ot:inGroupClade": "node1167261", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1167260", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1167260": {
 "edge1167261": {
@@ -578,10 +588,15 @@
 }, 
 "tree6707": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "rpob", 
 "^ot:inGroupClade": "node1167306", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1167305", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1167305": {
 "edge1167306": {

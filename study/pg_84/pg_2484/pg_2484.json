@@ -45,6 +45,9 @@
 "^ot:curatorName": "Angela Oliverio", 
 "^ot:focalClade": 1064655, 
 "^ot:focalCladeOTTTaxonName": "Amoebozoa", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2484"
 ], 
@@ -54,6 +57,7 @@
 }, 
 "^ot:studyPublicationReference": "Lahr, D.J.G., J. Grant, T. Nguyen, J.H. Lin, L.A. Katz. 2011. Comprehensive phylogenetic reconstruction of Amoebozoa based on concatenated analyses of SSU-rDNA and actin genes. PLoS ONE 6 (7): e22780.", 
 "^ot:studyYear": 2011, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2484"
 ], 
@@ -758,10 +762,15 @@
 "treeById": {
 "tree5346": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "50% majority-rule bootstrap consensus", 
 "^ot:inGroupClade": "node924578", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node924578", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node924578": {
 "edge924579": {
@@ -2974,11 +2983,15 @@
 }, 
 "tree6607": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "tree_rooted", 
 "^ot:inGroupClade": "node1153122", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1153102", 
 "^ot:specifiedRoot": "node1153102", 
+"^ot:tag": [], 
 "^ot:unrootedTree": false, 
 "edgeBySourceId": {
 "node1153102": {

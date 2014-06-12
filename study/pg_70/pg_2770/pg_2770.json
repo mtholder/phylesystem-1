@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 724399, 
 "^ot:focalCladeOTTTaxonName": "Plasmodium", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2770"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Ollomo, Benjamin, Patrick Durand, Franck Prugnolle, Emmanuel Douzery, C\u00e9line Arnathau, Dieudonn\u00e9 Nkoghe, Eric Leroy, Fran\u00e7ois Renaud. 2009. A New Malaria Agent in African Hominids. PLoS Pathogens 5 (5): e1000446.", 
 "^ot:studyYear": 2009, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2770"
 ], 
@@ -157,9 +162,14 @@
 "treeById": {
 "tree6417": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "ML", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1115739", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1115739": {
 "edge1115740": {

@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S14693"
 }, 
 "^ot:focalClade": 304358, 
 "^ot:focalCladeOTTTaxonName": "Eukaryota", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2847"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "He, D., F. Omar, C. Fu, J. Fehling, C. Tsai, and S.L. Baldauf. 2014. An alternative root for the eukaryote tree of life. Current Biology 24 (4): 465-470.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2847"
 ], 
@@ -476,10 +481,15 @@
 "treeById": {
 "tree6609": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1M\"", 
 "^ot:inGroupClade": "node1153583", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1153557", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1153557": {
 "edge1153558": {
@@ -1548,8 +1558,14 @@
 }, 
 "tree6610": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1M'", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1153690", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1153690": {
 "edge1153691": {
@@ -2618,10 +2634,15 @@
 }, 
 "tree6611": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 1M", 
 "^ot:inGroupClade": "node1153849", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1153823", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1153823": {
 "edge1153824": {

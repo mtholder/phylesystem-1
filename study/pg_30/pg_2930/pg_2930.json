@@ -39,18 +39,23 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Kayla Foney", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S10953"
 }, 
 "^ot:focalClade": 5342311, 
 "^ot:focalCladeOTTTaxonName": "Bacillariophyta", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2930"
 ], 
 "^ot:studyId": "pg_2930", 
 "^ot:studyPublicationReference": "Theriot E.C., Ashworth M., Ruck E.C., Nakov T., & Jansen R.K. 2010. A preliminary multigene phylogeny of the diatoms (Bacillariophyta): challenges for future research. Plant Ecology and Evolution, 143(3): 1-18.", 
 "^ot:studyYear": 2010, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2930"
 ], 
@@ -871,9 +876,15 @@
 "treeById": {
 "tree6768": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 12", 
 "^ot:inGroupClade": "node1177250", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1177249", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1177249": {
 "edge1177250": {

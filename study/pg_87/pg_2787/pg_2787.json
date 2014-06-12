@@ -39,18 +39,23 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S14407"
 }, 
 "^ot:focalClade": 844192, 
 "^ot:focalCladeOTTTaxonName": "Bacteria", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2787"
 ], 
 "^ot:studyId": "2787", 
 "^ot:studyPublicationReference": "Fory, P., L.R. Triplett, C. Ballen, J. Duitama, M. Aricapa, J. Abello, G. Prado, F. Correa, J. Hamilton, J. Leach, J. Tohme, and G. Mosquera. 2013. Comparative analysis of two emerging rice seed pathogens. Phytopathology, .", 
 "^ot:studyYear": 2013, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2787"
 ], 
@@ -291,10 +296,15 @@
 "treeById": {
 "tree6704": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "rooted BA", 
 "^ot:inGroupClade": "node1167110", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1167108", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1167108": {
 "edge1167109": {

@@ -45,6 +45,9 @@
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:focalClade": 225495, 
 "^ot:focalCladeOTTTaxonName": "Cyanobacteria", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2739"
 ], 
@@ -54,6 +57,7 @@
 }, 
 "^ot:studyPublicationReference": "Schirrmeister, Bettina E., Alexandre Antonelli, Homayoun C. Bagheri. 2011. The origin of multicellularity in cyanobacteria. BMC Evolutionary Biology 11 (1): 45.", 
 "^ot:studyYear": 2011, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2739"
 ], 
@@ -5801,9 +5805,14 @@
 "treeById": {
 "tree6325": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "maximum likelihood", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1098659", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1098659": {
 "edge1098660": {
@@ -25312,11 +25321,15 @@
 }, 
 "tree6601": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
 "^ot:branchLengthMode": "ot:substitutionCount", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "rooted_tree", 
 "^ot:inGroupClade": "node1150270", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1150258", 
 "^ot:specifiedRoot": "node1150258", 
+"^ot:tag": [], 
 "^ot:unrootedTree": false, 
 "edgeBySourceId": {
 "node1150258": {

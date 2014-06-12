@@ -39,9 +39,13 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Joseph Brown", 
 "^ot:focalClade": 860401, 
 "^ot:focalCladeOTTTaxonName": "Synallaxis", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2929"
 ], 
@@ -51,6 +55,7 @@
 }, 
 "^ot:studyPublicationReference": "Claramunt, Santiago. 2014. Phylogenetic relationships among Synallaxini spinetails (Aves: Furnariidae) reveal a new biogeographic pattern across the Amazon and Paran\u00e1 river basins. Molecular Phylogenetics and Evolution", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2929"
 ], 
@@ -147,10 +152,17 @@
 "treeById": {
 "tree6765": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 4 STAR", 
 "^ot:inGroupClade": "node1176920", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1176920", 
-"^ot:tag": "rooted", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [
+"rooted"
+], 
 "edgeBySourceId": {
 "node1176920": {
 "edge1176921": {

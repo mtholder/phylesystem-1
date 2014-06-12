@@ -39,12 +39,16 @@
 "^ot:annotationEvents": {
 "annotation": []
 }, 
+"^ot:candidateTreeForSynthesis": [], 
 "^ot:curatorName": "Dail Laughinghouse", 
 "^ot:dataDeposit": {
 "@href": "http://purl.org/phylo/treebase/phylows/study/TB2:S14909"
 }, 
 "^ot:focalClade": 5246131, 
 "^ot:focalCladeOTTTaxonName": "Holozoa", 
+"^ot:messages": {
+"message": []
+}, 
 "^ot:otusElementOrder": [
 "otus2886"
 ], 
@@ -54,6 +58,7 @@
 }, 
 "^ot:studyPublicationReference": "Scheel, B.M., and B. Hausdorf. 2014. Dynamic evolution of mitochondrial ribosomal proteins in Holozoa. Molecular Phylogenetics and Evolution 76: 67-74.", 
 "^ot:studyYear": 2014, 
+"^ot:tag": [], 
 "^ot:treesElementOrder": [
 "trees2886"
 ], 
@@ -219,9 +224,16 @@
 "treeById": {
 "tree6693": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 2B Bayesian topology", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165511", 
-"^ot:tag": "Choose me", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [
+"Choose me"
+], 
 "edgeBySourceId": {
 "node1165511": {
 "edge1165512": {
@@ -618,8 +630,14 @@
 }, 
 "tree6694": {
 "@xsi:type": "nex:FloatTree", 
+"^ot:branchLengthDescription": "", 
+"^ot:branchLengthMode": "", 
+"^ot:branchLengthTimeUnit": "", 
 "^ot:curatedType": "Fig. 2A ML topology", 
+"^ot:outGroupEdge": "", 
 "^ot:rootNodeId": "node1165560", 
+"^ot:specifiedRoot": "", 
+"^ot:tag": [], 
 "edgeBySourceId": {
 "node1165560": {
 "edge1165561": {
